@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Christian's Night
 ---
 In this page we're going to put some quick summary of the night.
 This can include the [brand](https://www.capitalbrewing.co/pages/brews) or whatever.
