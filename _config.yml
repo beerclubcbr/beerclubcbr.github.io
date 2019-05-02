@@ -10,7 +10,7 @@ title:            CBR Beer Club
 tagline:          'A gentlemen club'
 description:      ''
 url:              https://beerclubcbr.github.io
-baseurl:          '/'
+baseurl:          /
 
 # author:
 #   name:           'Marcus'
