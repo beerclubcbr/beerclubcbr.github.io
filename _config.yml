@@ -9,12 +9,12 @@ permalink:        pretty
 title:            CBR Beer Club
 tagline:          'A gentlemen club'
 description:      ''
-url:              http://beerclubcbr.github.io
+url:              https://beerclubcbr.github.io
 baseurl:          /
 
 author:
   name:           'Marcus'
-  url:            http://elgandoz.github.io/
+  url:            https://elgandoz.github.io/
 
 paginate:         5
 
