@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Beer Club
-tagline:          'A gentlemen club'
-description:      'Canberra's fellow beer lovers'
+tagline:          "A gentlemen's club"
+description:      "Canberra's fellow beer lovers"
 url:              http://beerclubcbr.github.io
 # baseurl:          / # Deprecated
 
