@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            CBR Beer Club
-tagline:          'A gentlemen\'s club'
+tagline:          'A gentlemen club'
 description:      ''
 url:              https://beerclubcbr.github.io
 baseurl:          /
