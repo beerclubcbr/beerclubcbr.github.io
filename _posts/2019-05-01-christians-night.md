@@ -23,5 +23,5 @@ This can include the [brand](https://www.capitalbrewing.co/pages/brews) or whate
 ## More
 
 We could add pics, but even not.
-![alt text for image](https://brouhahabrewery.com.au/wp-content/uploads/2018/08/Brouhaha-Brewery-Craft-Beer-Middle-of-the-Road.jpg)
+![alt text for image](https://brouhahabrewery.com.au/wp-content/uploads/2018/08/Brouhaha-Brewery-Craft-Beer-Middle-of-the-Road.jpg =300x)
 As an example of the syntax I add a pic here
