@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            CBR Beer Club
 tagline:          'A gentlemen club'
 description:      ''
-url:              https://beerclubcbr.github.io
+url:              http://beerclubcbr.github.io
 baseurl:          /
 
 author:
   name:           'Marcus'
-  url:            https://elgandoz.github.io/
+  url:            http://elgandoz.github.io/
 
 paginate:         5
 
