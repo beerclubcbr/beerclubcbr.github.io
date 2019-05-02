@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
-baseurl:          /
 
 # Permalinks
 permalink:        pretty
@@ -11,10 +10,11 @@ title:            CBR Beer Club
 tagline:          'A gentlemen club'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.'
 url:              http://beerclubcbr.github.io
+# baseurl:          / # Deprecated
 
-author:
-  name:           'Marcus'
-  url:            https://elgandoz.github.io/
+# author:
+#   name:           'Marcus'
+#   url:            https://elgandoz.github.io/
 
 paginate:         5
 
