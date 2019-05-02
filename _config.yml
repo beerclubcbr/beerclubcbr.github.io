@@ -12,14 +12,14 @@ description:      ''
 url:              https://beerclubcbr.github.io
 baseurl:          /
 
-author:
-  name:           'Marcus'
-  url:            https://elgandoz.github.io/
+# author:
+#   name:           'Marcus'
+#   url:            https://elgandoz.github.io/
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
-github:
-  repo:           https://github.com/beerclubcbr/beerclubcbr.github.io
+# github:
+#  repo:           https://github.com/beerclubcbr/beerclubcbr.github.io
