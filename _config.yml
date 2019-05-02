@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            CBR Beer Club
+title:            Beer Club
 tagline:          'A gentlemen club'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.'
+description:      'Canberra's fellow beer lovers'
 url:              http://beerclubcbr.github.io
 # baseurl:          / # Deprecated
 
